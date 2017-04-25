@@ -1,0 +1,42 @@
+yes well yes all the executives are 
+
+GetUsersFullName Introduce our Team
+
+Value Hows does this project create value
+Transparency what about transparency
+Sustain And lastly sustainability
+goodone good one alexa
+
+MeanAlexaTwo calm down Alexa
+
+ProjectIntro introduce our project
+
+GetProjectTime how much time have I been at the hackathon
+GetProjectTime report my hackathon activity
+
+PASRPolicyPlans How many new payser policy plans
+
+CarrozJoke What did you think about the hackathon
+
+DerekJoke really only thirty two hours
+ProjectBenefits how could this project benefit us
+ProjectBenefits how does this project benefit us
+UpdateProjectHours add two hours to  N B A project
+
+UpdateHackathonProjectHours add two hours to the hackathon project
+
+UpdateTimeAwayProjectHours add eight hours to the time away project
+
+GetTotalHours what are my total hours for this week
+
+GetActivitySummary what projects did i work on this week
+
+
+nlpbenefits is there any research on this
+ForgotAnything did we forget anything
+
+
+ByeAlexa Bye Alexa
+ByeAlexa Bye Bye
+
+
