@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="f4df7e5e-c88d-49f5-90f3-c898a774d1c1" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://beldzb15u16947/TimeTrackerService/TimeTrackerService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="TimeTrackerService.xsd" MetadataType="Schema" ID="271aae69-fa2e-4324-8186-72c7bb33b06f" SourceId="1" SourceUrl="http://beldzb15u16947/TimeTrackerService/TimeTrackerService.svc?xsd=xsd0" />
+    <MetadataFile FileName="TimeTrackerService1.xsd" MetadataType="Schema" ID="972d6c37-b19f-41a4-9688-194c70ef9811" SourceId="1" SourceUrl="http://beldzb15u16947/TimeTrackerService/TimeTrackerService.svc?xsd=xsd1" />
+    <MetadataFile FileName="TimeTrackerService.wsdl" MetadataType="Wsdl" ID="3bfa37f4-5419-491d-824d-3070f5e602bb" SourceId="1" SourceUrl="http://beldzb15u16947/TimeTrackerService/TimeTrackerService.svc?wsdl" />
+    <MetadataFile FileName="TimeTrackerService.disco" MetadataType="Disco" ID="a9534552-96fb-4478-927a-ac1646d2e222" SourceId="1" SourceUrl="http://beldzb15u16947/TimeTrackerService/TimeTrackerService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
